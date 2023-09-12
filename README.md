@@ -1,10 +1,6 @@
 <h1 align="center">Hey! NotViwaan</h1>
 <h3 align="center">A Boy Trying To Figure-Out Stuff!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notviwaan&label=Profile%20views&color=0e75b6&style=flat" alt="notviwaan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notviwaan" alt="notviwaan" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Nothing**
