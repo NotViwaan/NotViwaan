@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Nothing**
-
 - 📫 How to reach me **viwaankanitkar248@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
